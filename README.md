@@ -6,7 +6,7 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this week's homework, you will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
-## Instructions
+## Part 1
 
 ![Kickstarter Table](Images/FullTable.PNG)
 
@@ -52,7 +52,7 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create?
 
-## Bonus
+## Part 2
 
 * Create a new sheet with 8 columns:
 
@@ -88,7 +88,7 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
 * Create a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
 
-## Bonus Statistical Analysis
+## Part 3
 
 If one were to describe a successful crowdfunding campaign, most people would use the number of campaign backers as a metric of success. One of the most efficient ways that data scientists characterize a quantitative metric, such as the number of campaign backers, is by creating a summary statistics table.
 
